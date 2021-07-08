@@ -1,0 +1,233 @@
+.banner{
+background-image:url(ck.jpg.jpg);
+height: 500px;
+background-size: cover;
+background-position: center;
+color: white;
+font-size: 30px;
+font-family:;
+text-align: center;
+margin-top: 0PX;
+opacity: 9px;
+text-shadow: 4PX 8PX 4PX black;
+
+}
+.drop{
+
+}
+
+ul{
+    list-style: none;
+    position: absolute;
+}
+ul li{
+    float: left;
+    text-align: center;
+}
+
+ul li a{
+    color:white ;
+    text-decoration: none;
+    font-family:Arial Black ;
+  
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 2px;
+}
+a:hover{
+    background-color: blue;
+}
+
+
+
+
+span{
+    color: red;
+}
+
+.down{
+position: relative;
+display: inline-block;
+}
+
+.BUT{
+float: left;
+background-color: red;
+font-size: 20PX;
+cursor: pointer;
+margin-top: 10PX;
+margin-left: 10PX;
+}
+
+
+
+h1{
+    text-align: center;
+    font-family: Arial Black;
+    font-size: 30px;
+    color: red;
+}
+
+P{
+    text-align: center;
+    font-family: Arial Black;
+    font-size: 20px;
+    
+}
+ hr{ 
+    height: 2px;
+    background-color: black;
+ }
+
+ .images{
+border-radius: 150px;
+ }
+
+ .text{
+
+    float: left;
+    width: 300px;
+    height: 260px;
+    text-align: center;
+    margin-top: 200px;
+    color: blue;
+    font-size: 40px;
+    font-family:Arial Black ;
+ }
+
+ img{
+     border-radius: px;
+    
+ }
+ table{
+     width: 100px;
+ }
+
+ .box{
+    background-image: url(REV.jpg);
+    background-size: cover;
+padding: 40px;
+border: 5px chartreuse;
+opacity: 0.9;
+ }
+
+ input{
+     display: block;
+     background-color: white;
+     padding: 8px;
+     color: rgb(255, 255, 255);
+     font-size:20px;
+margin-left: 490px;
+
+ }
+
+ label{
+     margin-left: 490px;
+ }
+
+ for{
+     font-size: 20px;
+     color: white;
+     margin-left: 30px;
+ }
+
+ form{
+     color: rgb(0, 0, 0);
+     font-size: 20px;
+     font-family: Arial Black;
+ }
+
+ .SUB{
+     color: blue;
+     margin-left: 490px;
+     background-color: white;
+     font-family: font-size: 40px;
+     font-family: Arial Black;
+     
+ }
+
+ .SUB:hover{
+     color: rgb(0, 0, 0);
+     background-color: white;
+     font-weight: 30px;
+ }
+
+ .wrapper{
+    width: 1200px;
+    margin: 100px auto;
+
+}
+.title{
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+.title h4{
+    text-transform: capitalize;
+    font-size: 46px;
+    position: relative;
+    display: inline-block;
+    color: red;
+
+}
+
+.title h4 span{
+    display: block;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 18px;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.single-menu{
+    flex-basis: 580px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid blue;
+}
+.single-menu:nth-child(5), .single-menu:nth-child(6){
+    border-bottom: 0;
+}
+.single-menu{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.single-menu img{
+    border-radius:  1250px;
+    border: 2px solid blue;
+    padding: 9px;
+}
+.single-menu h4{
+    font-size: 30px;
+    color: blue;
+    text-transform: uppercase;
+    border-bottom: 2px dashed red;
+    margin-bottom: 9px;
+    padding-bottom: 9px;
+    margin-left: 0px;
+}
+span{
+    color: rgb(255, 5, 5);
+    margin-left: 9px;
+}
+.single-menu:hover img{
+border-radius: 0;
+}
+
+.WE{
+    width: ;
+    background-color: blue;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    color: white;
+    
+}
